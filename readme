@@ -1,0 +1,16 @@
+USAGE:
+	NO PARAMETERS:
+		Generates a single 15-digit IMEI (yeah, along with the control digit);
+	WITH ANY NON-ZERO NUMBER OF PARAMETERS:
+		Checks the parameters and tells out if they are IMEIs.
+	
+NOTES:
+	Thanks to
+		https://golang.org
+		and
+		https://gobyexample.com/
+		for making me able to code this within just one evening without any prior experience in Go.
+		
+LICENSING:
+	I don't give a fuck about how you're gonna use this,
+	but i'm not in charge for anything You'll get from it.
